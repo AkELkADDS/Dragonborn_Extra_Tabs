@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="a095fce4-a8c9-0e6c-1b17-5ee0dd04b21c"/>
+            <attribute id="Name" type="LSString" value="Dragonborn_Extra_Tabs"/>
+            <attribute id="UUID" type="LSString" value="ff9c0f54-6c50-fcf1-3a2d-e02df4bc43ca"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
